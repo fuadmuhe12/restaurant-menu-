@@ -50,8 +50,8 @@
 
 
 ### Files
-- `menu.py`: Main script containing core functionality.
-- `random.py` used in main script
+- ` menu.py`: Main script containing core functionality.
+- `guess.py` used in main script
 - `lot.py` used in main script so simulate lotary
 - `README.md`: This file providing project information.
 
