@@ -47,7 +47,7 @@
 
 ### Digital Menu
 - Experience the convenience of the digital menu.
-
+-ok 
 
 ### Files
 - ` menu.py`: Main script containing core functionality.
